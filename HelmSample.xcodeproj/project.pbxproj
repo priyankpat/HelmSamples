@@ -14,6 +14,18 @@
 		997C7295284E9CB500C8E8C4 /* HelmSampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997C7294284E9CB500C8E8C4 /* HelmSampleTests.swift */; };
 		997C729F284E9CB500C8E8C4 /* HelmSampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997C729E284E9CB500C8E8C4 /* HelmSampleUITests.swift */; };
 		997C72A1284E9CB500C8E8C4 /* HelmSampleUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997C72A0284E9CB500C8E8C4 /* HelmSampleUITestsLaunchTests.swift */; };
+		997C72AF284E9CDD00C8E8C4 /* Helm in Frameworks */ = {isa = PBXBuildFile; productRef = 997C72AE284E9CDD00C8E8C4 /* Helm */; };
+		997C72B2284E9D3800C8E8C4 /* SampleFragment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997C72B1284E9D3800C8E8C4 /* SampleFragment.swift */; };
+		997C72B6284E9DA600C8E8C4 /* BasicExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997C72B5284E9DA600C8E8C4 /* BasicExample.swift */; };
+		997C72B8284EA3B100C8E8C4 /* DrawerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997C72B7284EA3B100C8E8C4 /* DrawerView.swift */; };
+		997C72BA284EA3DA00C8E8C4 /* FragmentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997C72B9284EA3DA00C8E8C4 /* FragmentView.swift */; };
+		997C72BC284EA46000C8E8C4 /* BasicEntryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997C72BB284EA46000C8E8C4 /* BasicEntryView.swift */; };
+		997C72BF284EA4B300C8E8C4 /* ActionSheetEntryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997C72BE284EA4B300C8E8C4 /* ActionSheetEntryView.swift */; };
+		997C72C1284EA4CB00C8E8C4 /* ActionSheetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997C72C0284EA4CB00C8E8C4 /* ActionSheetView.swift */; };
+		997C72C4284EA56600C8E8C4 /* NavigationEntryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997C72C3284EA56600C8E8C4 /* NavigationEntryView.swift */; };
+		997C72C6284EA58000C8E8C4 /* NavigationExampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997C72C5284EA58000C8E8C4 /* NavigationExampleView.swift */; };
+		997C72C9284EA6EA00C8E8C4 /* TabEntryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997C72C8284EA6EA00C8E8C4 /* TabEntryView.swift */; };
+		997C72CB284EA6F300C8E8C4 /* TabExampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 997C72CA284EA6F300C8E8C4 /* TabExampleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +56,17 @@
 		997C729A284E9CB500C8E8C4 /* HelmSampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HelmSampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		997C729E284E9CB500C8E8C4 /* HelmSampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelmSampleUITests.swift; sourceTree = "<group>"; };
 		997C72A0284E9CB500C8E8C4 /* HelmSampleUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelmSampleUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		997C72B1284E9D3800C8E8C4 /* SampleFragment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleFragment.swift; sourceTree = "<group>"; };
+		997C72B5284E9DA600C8E8C4 /* BasicExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicExample.swift; sourceTree = "<group>"; };
+		997C72B7284EA3B100C8E8C4 /* DrawerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawerView.swift; sourceTree = "<group>"; };
+		997C72B9284EA3DA00C8E8C4 /* FragmentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FragmentView.swift; sourceTree = "<group>"; };
+		997C72BB284EA46000C8E8C4 /* BasicEntryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicEntryView.swift; sourceTree = "<group>"; };
+		997C72BE284EA4B300C8E8C4 /* ActionSheetEntryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetEntryView.swift; sourceTree = "<group>"; };
+		997C72C0284EA4CB00C8E8C4 /* ActionSheetView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetView.swift; sourceTree = "<group>"; };
+		997C72C3284EA56600C8E8C4 /* NavigationEntryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationEntryView.swift; sourceTree = "<group>"; };
+		997C72C5284EA58000C8E8C4 /* NavigationExampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationExampleView.swift; sourceTree = "<group>"; };
+		997C72C8284EA6EA00C8E8C4 /* TabEntryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabEntryView.swift; sourceTree = "<group>"; };
+		997C72CA284EA6F300C8E8C4 /* TabExampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabExampleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +74,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				997C72AF284E9CDD00C8E8C4 /* Helm in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -94,6 +118,11 @@
 		997C7282284E9CB400C8E8C4 /* HelmSample */ = {
 			isa = PBXGroup;
 			children = (
+				997C72C7284EA6DB00C8E8C4 /* Tab */,
+				997C72C2284EA55A00C8E8C4 /* Navigation */,
+				997C72BD284EA4A500C8E8C4 /* ActionSheet */,
+				997C72B4284E9D7C00C8E8C4 /* Basic */,
+				997C72B0284E9D1900C8E8C4 /* Fragment */,
 				997C7283284E9CB400C8E8C4 /* HelmSampleApp.swift */,
 				997C7285284E9CB400C8E8C4 /* ContentView.swift */,
 				997C7287284E9CB500C8E8C4 /* Assets.xcassets */,
@@ -127,6 +156,52 @@
 			path = HelmSampleUITests;
 			sourceTree = "<group>";
 		};
+		997C72B0284E9D1900C8E8C4 /* Fragment */ = {
+			isa = PBXGroup;
+			children = (
+				997C72B1284E9D3800C8E8C4 /* SampleFragment.swift */,
+				997C72B9284EA3DA00C8E8C4 /* FragmentView.swift */,
+			);
+			path = Fragment;
+			sourceTree = "<group>";
+		};
+		997C72B4284E9D7C00C8E8C4 /* Basic */ = {
+			isa = PBXGroup;
+			children = (
+				997C72B5284E9DA600C8E8C4 /* BasicExample.swift */,
+				997C72B7284EA3B100C8E8C4 /* DrawerView.swift */,
+				997C72BB284EA46000C8E8C4 /* BasicEntryView.swift */,
+			);
+			path = Basic;
+			sourceTree = "<group>";
+		};
+		997C72BD284EA4A500C8E8C4 /* ActionSheet */ = {
+			isa = PBXGroup;
+			children = (
+				997C72BE284EA4B300C8E8C4 /* ActionSheetEntryView.swift */,
+				997C72C0284EA4CB00C8E8C4 /* ActionSheetView.swift */,
+			);
+			path = ActionSheet;
+			sourceTree = "<group>";
+		};
+		997C72C2284EA55A00C8E8C4 /* Navigation */ = {
+			isa = PBXGroup;
+			children = (
+				997C72C3284EA56600C8E8C4 /* NavigationEntryView.swift */,
+				997C72C5284EA58000C8E8C4 /* NavigationExampleView.swift */,
+			);
+			path = Navigation;
+			sourceTree = "<group>";
+		};
+		997C72C7284EA6DB00C8E8C4 /* Tab */ = {
+			isa = PBXGroup;
+			children = (
+				997C72C8284EA6EA00C8E8C4 /* TabEntryView.swift */,
+				997C72CA284EA6F300C8E8C4 /* TabExampleView.swift */,
+			);
+			path = Tab;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -143,6 +218,9 @@
 			dependencies = (
 			);
 			name = HelmSample;
+			packageProductDependencies = (
+				997C72AE284E9CDD00C8E8C4 /* Helm */,
+			);
 			productName = HelmSample;
 			productReference = 997C7280284E9CB400C8E8C4 /* HelmSample.app */;
 			productType = "com.apple.product-type.application";
@@ -215,6 +293,9 @@
 				Base,
 			);
 			mainGroup = 997C7277284E9CB400C8E8C4;
+			packageReferences = (
+				997C72AD284E9CDD00C8E8C4 /* XCRemoteSwiftPackageReference "Helm" */,
+			);
 			productRefGroup = 997C7281284E9CB400C8E8C4 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -257,8 +338,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				997C72BA284EA3DA00C8E8C4 /* FragmentView.swift in Sources */,
+				997C72C9284EA6EA00C8E8C4 /* TabEntryView.swift in Sources */,
+				997C72C4284EA56600C8E8C4 /* NavigationEntryView.swift in Sources */,
+				997C72C6284EA58000C8E8C4 /* NavigationExampleView.swift in Sources */,
+				997C72BF284EA4B300C8E8C4 /* ActionSheetEntryView.swift in Sources */,
+				997C72CB284EA6F300C8E8C4 /* TabExampleView.swift in Sources */,
+				997C72B2284E9D3800C8E8C4 /* SampleFragment.swift in Sources */,
 				997C7286284E9CB400C8E8C4 /* ContentView.swift in Sources */,
+				997C72C1284EA4CB00C8E8C4 /* ActionSheetView.swift in Sources */,
+				997C72BC284EA46000C8E8C4 /* BasicEntryView.swift in Sources */,
 				997C7284284E9CB400C8E8C4 /* HelmSampleApp.swift in Sources */,
+				997C72B8284EA3B100C8E8C4 /* DrawerView.swift in Sources */,
+				997C72B6284E9DA600C8E8C4 /* BasicExample.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -345,7 +437,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -399,7 +491,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -583,6 +675,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		997C72AD284E9CDD00C8E8C4 /* XCRemoteSwiftPackageReference "Helm" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/valentinradu/Helm";
+			requirement = {
+				branch = main;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		997C72AE284E9CDD00C8E8C4 /* Helm */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 997C72AD284E9CDD00C8E8C4 /* XCRemoteSwiftPackageReference "Helm" */;
+			productName = Helm;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 997C7278284E9CB400C8E8C4 /* Project object */;
 }

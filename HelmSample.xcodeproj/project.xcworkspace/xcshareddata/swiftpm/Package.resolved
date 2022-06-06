@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "helm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/valentinradu/Helm",
+      "state" : {
+        "branch" : "main",
+        "revision" : "dc4c5216775ac71dfc05e020c3d250e3e79fdf5f"
+      }
+    },
+    {
+      "identity" : "swift-collections",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-collections.git",
+      "state" : {
+        "revision" : "48254824bb4248676bf7ce56014ff57b142b77eb",
+        "version" : "1.0.2"
+      }
+    }
+  ],
+  "version" : 2
+}
